@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.uts.pringsewusehat.app-mergeDebugResources-35:/layout/activity_registration.xml",
+        "source": "com.uts.pringsewusehat.app-main-38:/layout/activity_registration.xml"
+    },
+    {
+        "merged": "com.uts.pringsewusehat.app-mergeDebugResources-35:/layout/item_faskes.xml",
+        "source": "com.uts.pringsewusehat.app-main-38:/layout/item_faskes.xml"
+    },
+    {
+        "merged": "com.uts.pringsewusehat.app-mergeDebugResources-35:/layout/activity_summary.xml",
+        "source": "com.uts.pringsewusehat.app-main-38:/layout/activity_summary.xml"
+    },
+    {
+        "merged": "com.uts.pringsewusehat.app-mergeDebugResources-35:/layout/activity_detail.xml",
+        "source": "com.uts.pringsewusehat.app-main-38:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "com.uts.pringsewusehat.app-mergeDebugResources-35:/layout/activity_main.xml",
+        "source": "com.uts.pringsewusehat.app-main-38:/layout/activity_main.xml"
+    }
+]

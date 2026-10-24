@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_hospital"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ic_hospital"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PringsewuSehat">
+
+        <!-- Activity 1: MainActivity (Beranda & Daftar Faskes) -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Activity 2: DetailActivity (Detail Faskes & Jadwal Dokter) -->
+        <activity
+            android:name=".DetailActivity"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
+
+        <!-- Activity 3: RegistrationActivity (Form Pendaftaran Antrean) -->
+        <activity
+            android:name=".RegistrationActivity"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
+
+        <!-- Activity 4: SummaryActivity (Bukti Antrean Digital) -->
+        <activity
+            android:name=".SummaryActivity"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
+
+    </application>
+
+</manifest>

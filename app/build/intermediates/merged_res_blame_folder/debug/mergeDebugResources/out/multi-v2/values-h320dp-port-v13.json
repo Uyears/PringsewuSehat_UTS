@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.uts.pringsewusehat.app-mergeDebugResources-34:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ns909\\.gradle\\caches\\9.5.0\\transforms\\c71b3cb3641d645520c93413a40dca8a\\transformed\\material-1.12.0\\res\\values-h320dp-port-v13\\values-h320dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary">#00796B</color>
+    <color name="primary_dark">#004D40</color>
+    <color name="primary_light">#E0F2F1</color>
+    <color name="primary_variant">#00695C</color>
+    
+    <color name="secondary">#0288D1</color>
+    <color name="secondary_dark">#01579B</color>
+    <color name="secondary_light">#E1F5FE</color>
+
+    <color name="accent">#00BFA5</color>
+    <color name="success">#2E7D32</color>
+    <color name="success_light">#E8F5E9</color>
+    <color name="warning">#F57F17</color>
+    <color name="warning_light">#FFF9C4</color>
+    <color name="error">#C62828</color>
+    <color name="error_light">#FFEBEE</color>
+
+    <color name="background">#F4F7F6</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#ECEFF1</color>
+    <color name="card_stroke">#CFD8DC</color>
+
+    <color name="text_primary">#1C2A38</color>
+    <color name="text_secondary">#546E7A</color>
+    <color name="text_tertiary">#90A4AE</color>
+    <color name="text_white">#FFFFFF</color>
+    
+    <!-- Chips / Badges -->
+    <color name="chip_hospital_bg">#EDE7F6</color>
+    <color name="chip_hospital_text">#5E35B1</color>
+    <color name="chip_puskesmas_bg">#E0F2F1</color>
+    <color name="chip_puskesmas_text">#00796B</color>
+    <color name="chip_klinik_bg">#FFF3E0</color>
+    <color name="chip_klinik_text">#E65100</color>
+    
+    <!-- Standard -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
